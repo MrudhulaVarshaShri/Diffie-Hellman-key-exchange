@@ -101,13 +101,12 @@ Can be extended to encryption/decryption systems
 
 ## 🚀 How to Run the Project
 1. Clone the Repository
-git clone https://github.com/yourusername/Diffie-Hellman-key-exchange.git
-cd Diffie-Hellman-key-exchange
+git clone
 
-2. Run the Demo File
+3. Run the Demo File
 python demo.py
 
-3. Output Will Show:
+4. Output Will Show:
 
 Public keys
 
