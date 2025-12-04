@@ -74,20 +74,6 @@ def generateKey(string, key):
 			key.append(key[i % len(key)]) 
 	return("" . join(key))
 
-"""WAIT WAIT WAIT..... !
 
 
-There is more Numbers of line of code.
-
-Hi there, 
-
-This Project will be Useful for you!
-
-you can use it for your college project.
-
-Also for Startups.
-
-
-Mail me now at **vatshayan007@gmail.com** to get full explained project code, project report, PPT and research paper on this Project
-"""
 
